@@ -1,0 +1,3 @@
+displayName = EnhanceBoss
+author = Rivane,墨
+version = 0.1
